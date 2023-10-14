@@ -57,8 +57,10 @@ We used a project management tracker to keep track of our progress and tasks. A 
 
 ## References
 
-Links to relevant articles, tutorials, and papers used for reference in the project.
-
-For more detailed information, refer to the full [project report](report/Deep_Learning_Final_Project_Report.pdf).
+[https://pyimagesearch.com/2022/02/21/u-net-image-segmentation-in-keras/](https://pyimagesearch.com/2022/02/21/u-net-image-segmentation-in-keras/)
+[https://www.tensorflow.org/tutorials/generative/dcgan](https://www.tensorflow.org/tutorials/generative/dcgan)
+[https://pub.towardsai.net/how-to-make-a-gan-to-generate-color-images-33d29f8a79c8](https://pub.towardsai.net/how-to-make-a-gan-to-generate-color-images-33d29f8a79c8)
+[http://cs231n.stanford.edu/reports/2017/pdfs/302.pdf](http://cs231n.stanford.edu/reports/2017/pdfs/302.pdf)
+[https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8](https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8)
 
 Feel free to explore the code and experiment with different models for automatic image colorization!
